@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: o;
+}
+header{
+    width: 100%;
+    background-color: darkorchid;
+    height: 100px;
+    text-align: center;
+}
+
+header h1{
+   
+    padding-top: 30px;
+
+}
+.article{
+    overflow: hidden;
+}
+.maincontent{
+width: 80%;
+background-color:whitesmoke;
+float: left;
+height: 400px;
+text-align: center;
+}
+.maincontent h1{
+padding-top: 180px;
+}
+.rightpanel{
+width: 20%;
+background-color: mediumorchid;
+float: right;
+height: 400px;
+text-align: center;
+}
+.rightpanel h1{
+padding-top: 180px;
+}
+footer{
+    background-color:orchid;
+    height: 100px;
+    text-align: center;
+}
+footer h1{
+  
+padding-top: 30px;
+}
